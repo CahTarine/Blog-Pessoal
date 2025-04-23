@@ -35,6 +35,10 @@ public class Postagem {
 	@UpdateTimestamp //faz com que a data seja preenchida automatizamente.
 	private LocalDate data;
 	
+	@ManyToOne
+	@JsonIgnoreProperties("postagem")
+	private Usuario usuario;
+	
 	
 	
 	@ManyToOne
@@ -75,6 +79,15 @@ public class Postagem {
 	}
 	public void setTema(Tema tema) {
 		this.tema = tema;
+	}
+	
+	
+	
+	public Usuario getUsuario() {
+		return usuario;
+	}
+	public void setUsuario(Usuario usuario) {
+		this.usuario = usuario;
 	}
 	
 	
