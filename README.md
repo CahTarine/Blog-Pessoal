@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-concluido-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-17-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-brightgreen?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-3.8.6-orange?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-17-purple?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-purple?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-3.8.6-purple?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
@@ -18,7 +18,7 @@
   <a href="#tecnologias-utilizadas">Tecnologias</a> •
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#estrutura-do-projeto">Estrutura</a> •
-  <a href="#como-executar-o-projeto">Como Executar</a> • 
+  <a href="#como-executar-o-projeto">Como Executar</a> 
 </p>
 
 ##
