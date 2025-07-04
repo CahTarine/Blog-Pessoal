@@ -3,7 +3,7 @@
 <h1 align="center">🕹️ Projeto Blog Pessoal </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-concluido-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-17-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-brightgreen?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-3.8.6-orange?style=for-the-badge&logo=apachemaven&logoColor=white" />
@@ -18,8 +18,7 @@
   <a href="#tecnologias-utilizadas">Tecnologias</a> •
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#estrutura-do-projeto">Estrutura</a> •
-  <a href="#como-executar-o-projeto">Como Executar</a> •
-  <a href="#melhorias-futuras">Melhorias Futuras</a> 
+  <a href="#como-executar-o-projeto">Como Executar</a> • 
 </p>
 
 ##
@@ -124,38 +123,6 @@ spring.datasource.password=sua_senha
 5. **Acesse**
 - API: `http://localhost:8080`
 - Teste com Insomnia ou Postman
-
-##
-
-## 🚧 Melhorias Futuras
-
-- Implementar uma interface front-end com React.js para interação com o usuário
-
-- Realizar deploy do front-end em plataformas como Vercel ou Netlify
-
-- Integração completa do front-end com a API back-end via Axios
-
-- Implementar controle de acesso por perfis de usuário (admin, autor, visitante)
-
-- Substituir autenticação básica por JWT (JSON Web Token) para maior segurança
-
-- Permitir comentários em postagens
-
-- Adicionar upload de imagens (ex: capa da postagem ou avatar do usuário)
-
-- Tornar o sistema totalmente responsivo (compatível com mobile e tablets)
-
-- Adicionar testes automatizados (JUnit no back-end, Jest/Cypress no front-end)
-
-##
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas!  
-Você pode:
-
-- Criar uma issue com sugestões de melhoria
-- Abrir um Pull Request com ajustes ou novas funcionalidades
 
 ##
 
